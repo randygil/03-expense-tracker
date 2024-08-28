@@ -2,6 +2,8 @@
 
 This project is a simple command-line interface (CLI) application for tracking expenses. Users can add, update, delete, and view their expenses, as well as see summaries of their spending.
 
+References to: https://roadmap.sh/projects/expense-tracker
+
 ## Requirements
 
 The application runs from the command line and provides the following features:
